@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+PyPDF2
+faiss-cpu
+google-generativeai
+sentence-transformers
+
+# The following line ensures that the latest version of langchain-community is installed.
+# After installing the above dependencies, run:
+# pip install -U langchain-community
